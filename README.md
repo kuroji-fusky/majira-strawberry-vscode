@@ -1,10 +1,9 @@
 # Majira Strawberry VS Code Theme
 
 > [!NOTE]
-> This repo has been archived, the theme will still be available for download on the VS Code
-> Marketplace, but the theme won't be updated until this point. It was just a silly
+> This theme won't be recieving any updates after December 21, 2024. It was just a silly
 > purple theme extension made just for the fun of it and won't be making any changes
-> anytime
+> beyond this point.
 
 ![Majira Strawberry VS Code Theme](https://user-images.githubusercontent.com/94678583/221720750-f8163faf-f5bd-4318-9547-7a6c04c92c87.png)
 
